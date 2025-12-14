@@ -261,16 +261,6 @@ sudo apt-get install gpsd gpsd-clients python3-gps
 ```
 3. GPS coordinates will be automatically included in CSV if available
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -293,19 +283,6 @@ The authors are not responsible for misuse of this software.
 - Raspberry Pi Foundation - Excellent single-board computers
 - Wardriving community - Inspiration and support
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/wartooth/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/wartooth/discussions)
-- **Wigle.net Forum**: [https://wigle.net/phpbb/](https://wigle.net/phpbb/)
-
-## 🔗 Related Projects
-
-- [WigleWifi](https://github.com/wiglenet/wigle-wifi-wardriving) - Android wardriving app
-- [Kismet](https://www.kismetwireless.net/) - Wireless network detector
-- [Bettercap](https://www.bettercap.org/) - Network attack and monitoring framework
-
----
 
 **Made with ❤️ for the Wardriving Community**
 
