@@ -2,7 +2,7 @@
 
 echo "========================================"
 echo "Wartooth Scanner Installation"
-echo "v2.0 - December 2024"
+echo "v2.0 - December 2025"
 echo "========================================"
 
 if [ "$EUID" -ne 0 ]; then 
