@@ -232,24 +232,6 @@ MAC,SSID,AuthMode,FirstSeen,Channel,RSSI,CurrentLatitude,...
 AA:BB:CC:DD:EE:FF,Device Name,[BT],2024-12-14 12:00:00,0,0,0.0,0.0,0.0,0.0,BT
 ```
 
-## 🔋 Power Optimization
-
-For mobile/battery-powered operation:
-
-```bash
-# Disable WiFi (if not needed for uploads)
-sudo rfkill block wifi
-
-# Disable HDMI
-sudo /usr/bin/tvservice -o
-
-# Increase scan intervals
-sudo wartooth-control config
-# Set: scan_interval=30, upload_interval=600
-```
-
-Expected battery life with 10,000mAh power bank: **~8-12 hours**
-
 ## 🌍 GPS Integration (Optional)
 
 For wardriving with real GPS coordinates:
